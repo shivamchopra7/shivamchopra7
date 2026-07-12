@@ -1,0 +1,16 @@
+{
+  "username": "shivamchopra7",
+  "name": "Shivam Chopra",
+  "terminal_host": "illusionart",
+  "company": "illusionArt AI Private Limited",
+  "role": "Founder / AI Product Builder",
+  "location": "Bengaluru, India",
+  "website": "shivamchopra.me",
+  "company_website": "illusionart.ai",
+  "linkedin": "linkedin.com/in/shivamchopra7",
+  "products": ["Saaya.ai", "Illusionart Studios"],
+  "focus": ["AI Agents", "Agentic Workflows", "SaaS"],
+  "programming": ["Python", "TypeScript", "JavaScript"],
+  "stack": ["Next.js", "React", "Node.js", "FastAPI"],
+  "ai_stack": ["LLMs", "RAG", "Voice AI", "Video AI", "Multi-Agent Systems"]
+}
