@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<video src="https://anam-prod.3b4e2c62766b488dfadbba0f05120797.r2.cloudflarestorage.com/avatars/cara-4-8/one-shot/one-shot_7Zwl0pAiHEqprK5lPpBkeklMljotAgFx_shivam1782635265516/idling_video.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=e47683e072659a4276a0e716c5d228eb%2F20260713%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260713T173021Z&X-Amz-Expires=3600&X-Amz-Signature=5ffe539bb6cc38710cec50c66f76440c02ee6c331241ecbcb6f0d96e5cc73cc0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject" width="300" autoplay loop muted playsinline></video>
+<video src="https://raw.githubusercontent.com/shivamchopra7/shivamchopra7/main/assets/idling_video.mp4" width="300" autoplay loop muted playsinline></video>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=79c0ff&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Chief+Technology+Officer+%7C+AI+%26+Product+Strategy;Founder+%40+illusionart+AI+%7C+Co-Founder+%40+Miles+Education;Shipped+18%2B+Products+%7C+200%2B+Cr+Revenue+Impact;Salesforce+Future+First+AI+Visionary" alt="Typing SVG" />
