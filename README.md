@@ -336,8 +336,9 @@ Custom agentic capabilities, workflow automations, and custom toolsets engineere
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-graph.vercel.app/graph?username=shivamchopra7&bg_color=0d1117&color=ffb879&line=ffb879&point=ffffff&area=true&hide_border=false" width="100%"/>
+  <img src="https://github-activity-graph.vercel.app/graph?username=shivamchopra7&bg_color=0d1117&color=ffb879&line=ffb879&point=ffffff&area=true&hide_border=false" width="100%"/>
 </div>
+
 
 ---
 
