@@ -8,9 +8,41 @@
   "website": "shivamchopra.me",
   "company_website": "illusionart.ai",
   "linkedin": "linkedin.com/in/shivamchopra7",
-  "products": ["Saaya.ai", "Illusionart Studios"],
-  "focus": ["AI Agents", "Agentic Workflows", "SaaS"],
-  "programming": ["Python", "TypeScript", "JavaScript"],
-  "stack": ["Next.js", "React", "Node.js", "FastAPI"],
-  "ai_stack": ["LLMs", "RAG", "Voice AI", "Video AI", "Multi-Agent Systems"]
+  "products": [
+    "Saaya.ai",
+    "Cerebro",
+    "Miles Masterclass",
+    "Guyana Digital School",
+    "Milesforce CRM",
+    "Pixelfluent.ai",
+    "Penwizard.ai",
+    "Codecraft.illusionart.ai"
+  ],
+  "focus": [
+    "AI Agents & Workflows",
+    "EdTech Transformation",
+    "Platform Scale",
+    "Cybersecurity"
+  ],
+  "programming": [
+    "Python",
+    "Go",
+    "TypeScript",
+    "JavaScript"
+  ],
+  "stack": [
+    "Django",
+    "Next.js",
+    "React",
+    "Node.js",
+    "PostgreSQL",
+    "AWS",
+    "Docker"
+  ],
+  "ai_stack": [
+    "Agentic AI",
+    "Voice & Video AI",
+    "RAG",
+    "Multi-Agent Systems"
+  ]
 }

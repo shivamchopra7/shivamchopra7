@@ -34,14 +34,14 @@
   <text class="mono small"><tspan x="550" y="228" class="label">Role</tspan><tspan x="674" y="228">Founder / AI Product Builder</tspan>
 <tspan x="550" y="267" class="label">Company</tspan><tspan x="674" y="267">illusionArt AI Private Limited</tspan>
 <tspan x="550" y="306" class="label">Location</tspan><tspan x="674" y="306">Bengaluru, India</tspan>
-<tspan x="550" y="345" class="label">Products</tspan><tspan x="674" y="345">Saaya.ai, Illusionart Studios</tspan>
-<tspan x="550" y="384" class="label">Focus</tspan><tspan x="674" y="384">AI Agents, Agentic Workflows, SaaS</tspan>
-<tspan x="550" y="423" class="label">Languages</tspan><tspan x="674" y="423">Python, TypeScript, JavaScript</tspan>
-<tspan x="550" y="462" class="label">Web</tspan><tspan x="674" y="462">Next.js, React, Node.js, FastAPI</tspan>
-<tspan x="550" y="501" class="label">AI</tspan><tspan x="674" y="501">LLMs, RAG, Voice AI, Video AI, Multi-Agent Systems</tspan></text>
+<tspan x="550" y="345" class="label">Products</tspan><tspan x="674" y="345">Saaya.ai, Cerebro, Miles Masterclass, Guyana Digital School, Milesforce CRM, Pixelfluent.ai, Penwizard.ai, Codecraft.illusionart.ai</tspan>
+<tspan x="550" y="384" class="label">Focus</tspan><tspan x="674" y="384">AI Agents &amp; Workflows, EdTech Transformation, Platform Scale, Cybersecurity</tspan>
+<tspan x="550" y="423" class="label">Languages</tspan><tspan x="674" y="423">Python, Go, TypeScript, JavaScript</tspan>
+<tspan x="550" y="462" class="label">Web</tspan><tspan x="674" y="462">Django, Next.js, React, Node.js, PostgreSQL, AWS, Docker</tspan>
+<tspan x="550" y="501" class="label">AI</tspan><tspan x="674" y="501">Agentic AI, Voice &amp; Video AI, RAG, Multi-Agent Systems</tspan></text>
   <line x1="550" y1="557" x2="1128" y2="557" stroke="#30363d"/>
   <text x="550" y="591" class="mono small"><tspan class="label">Web         </tspan>shivamchopra.me  ·  illusionart.ai</text>
   <text x="550" y="622" class="mono small"><tspan class="label">Connect     </tspan>linkedin.com/in/shivamchopra7</text>
   <rect x="55" y="650" width="1090" height="1" fill="#30363d"/>
-  <text x="600" y="677" text-anchor="middle" class="mono small muted">24 repos  ·  2 stars  ·  11 followers  ·  45 public commits / 365d  ·  building since 2015</text>
+  <text x="600" y="677" text-anchor="middle" class="mono small muted">24 repos  ·  2 stars  ·  11 followers  ·  48 public commits / 365d  ·  building since 2015</text>
 </svg>
