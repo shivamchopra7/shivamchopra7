@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/shivamchopra7/shivamchopra7/main/assets/idling_video.gif" width="300" alt="Hero Animation" />
 
 <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=79c0ff&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Chief+Technology+Officer+%7C+AI+%26+Product+Strategy;Founder+%40+illusionart+AI+%7C+Co-Founder+%40+Miles+Education;Shipped+18%2B+Products+%7C+200%2B+Cr+Revenue+Impact;Salesforce+Future+First+AI+Visionary" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=ffb879&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Chief+Technology+Officer+%7C+AI+%26+Product+Strategy;Founder+%40+illusionart+AI+%7C+Co-Founder+%40+Miles+Education;Shipped+18%2B+Products+%7C+200%2B+Cr+Revenue+Impact;Salesforce+Future+First+AI+Visionary" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -336,7 +336,7 @@ Custom agentic capabilities, workflow automations, and custom toolsets engineere
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamchopra7&bg_color=0d1117&color=79c0ff&line=79c0ff&point=ffffff&area=true&hide_border=false" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamchopra7&bg_color=0d1117&color=ffb879&line=ffb879&point=ffffff&area=true&hide_border=false" width="100%"/>
 </div>
 
 ---
