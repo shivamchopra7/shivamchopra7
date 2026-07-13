@@ -1,9 +1,11 @@
 <!-- GitHub profile README for shivamchopra7 -->
 
 <div align="center">
-
+<a href="https://shivamchopra.me" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/shivamchopra7/shivamchopra7/main/assets/idling_video.gif" width="300" alt="Hero Animation" />
+</a>
 
+<div align="center">
 <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=ffb879&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Chief+Technology+Officer+%7C+AI+%26+Product+Strategy;Founder+%40+illusionart+AI+%7C+Co-Founder+%40+Miles+Education;Shipped+18%2B+Products+%7C+200%2B+Cr+Revenue+Impact;Salesforce+Future+First+AI+Visionary" alt="Typing SVG" />
 </a>
