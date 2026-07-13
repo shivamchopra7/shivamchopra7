@@ -199,7 +199,7 @@ Custom agentic capabilities, workflow automations, and custom toolsets engineere
 <tr>
 <td>
 <strong>Founder & Chief Executive Officer</strong> &nbsp;•&nbsp; <a href="https://illusionart.ai" target="_blank" rel="noopener noreferrer">illusionart AI Private Limited</a><br/>
-<sub>2024 — Present &nbsp;|&nbsp; Bengaluru, India</sub>
+<sub>2024, Present &nbsp;|&nbsp; Bengaluru, India</sub>
 <br/><br/>
 <strong>→</strong> Founded illusionart AI, partnering with EdTech firms, governments, and high-growth startups to ship enterprise AI products and agentic automation; <strong>18+ products</strong> and <strong>₹200 Cr+</strong> in cumulative revenue impact.<br/>
 <strong>→</strong> Architected and built <strong>Saaya</strong> end to end on AWS: a real-time voice, video, and chat AI platform with sub-300 ms WebRTC latency, high-transaction integrations, and payment gateways across 20+ Indian languages.<br/>
@@ -212,7 +212,7 @@ Custom agentic capabilities, workflow automations, and custom toolsets engineere
 
 <td>
 <strong>Co-Founder & Chief Technology Officer</strong> &nbsp;•&nbsp; <a href="https://mileseducation.com" target="_blank" rel="noopener noreferrer">Miles Education Pvt. Ltd.</a><br/>
-<sub>2012 — Present &nbsp;|&nbsp; India • United States • Guyana</sub>
+<sub>2012, Present &nbsp;|&nbsp; India • United States • Guyana</sub>
 <br/><br/>
 <strong>→</strong> Transformed Miles Education from a traditional coaching institute into a cloud-native, AI-driven EdTech platform contributing <strong>₹200 Cr+</strong> in revenue across India, the United States, and the Caribbean.<br/>
 <strong>→</strong> Scaled the engineering and product organization from <strong>12 to 110+ engineers</strong>, instituting DevOps, DevSecOps, and ITSM standards across the delivery lifecycle.<br/>
@@ -225,7 +225,7 @@ Custom agentic capabilities, workflow automations, and custom toolsets engineere
 <tr>
 <td>
 <strong>Independent Technologist, Editor & Open Source Contributor</strong> &nbsp;•&nbsp; Film, TV & Open Source<br/>
-<sub>2009 — 2012 &nbsp;|&nbsp; India</sub>
+<sub>2009, 2012 &nbsp;|&nbsp; India</sub>
 <br/><br/>
 <strong>→</strong> Founding member of the <strong>OSx86 (Hackintosh) Project</strong> at age 20, an early global open-source effort to port macOS to standard x86 hardware.<br/>
 <strong>→</strong> Built early prototypes of proprietary CRM, ATS, and ERP platforms, and worked as an editor and assistant director across TV series, feature films, and educational content.
@@ -249,6 +249,10 @@ Custom agentic capabilities, workflow automations, and custom toolsets engineere
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Systems-764ABC?style=for-the-badge)
 ![Voice & Video AI](https://img.shields.io/badge/Voice_&_Video_AI-E91E63?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-1f6feb?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-00E676?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -262,6 +266,9 @@ Custom agentic capabilities, workflow automations, and custom toolsets engineere
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Platform & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -272,6 +279,9 @@ Custom agentic capabilities, workflow automations, and custom toolsets engineere
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -282,6 +292,8 @@ Custom agentic capabilities, workflow automations, and custom toolsets engineere
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Integrations, Security & Tools
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
@@ -292,6 +304,11 @@ Custom agentic capabilities, workflow automations, and custom toolsets engineere
 ![N8N](https://img.shields.io/badge/N8N_Workflow-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Security Governance](https://img.shields.io/badge/Security_Governance-00E676?style=for-the-badge)
+![Secure SDLC](https://img.shields.io/badge/Secure_SDLC-red?style=for-the-badge)
+![Data Protection](https://img.shields.io/badge/Data_Protection-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -299,20 +316,20 @@ Custom agentic capabilities, workflow automations, and custom toolsets engineere
 
 ## Awards & Recognition
 
-*   🏆 **Future First AI Visionary** — Awarded by Salesforce Inc. for excellence in AI-driven innovation.
-*   🎖️ **Edvocate Leadership Award 2022** — For transformational leadership in education technology.
-*   💡 **Innovative Thinker Award** — Awarded by Miles Education for repeated breakthrough product contributions.
-*   🍏 **Founding Member, OSx86 (Hackintosh) Project** — One of the earliest global open-source contributors, at age 20.
-*   🤖 **Robotics Initiative** — Served as a Co-architect for major Robotics initiatives.
-*   ✈️ **Aviation Excellence** — Delivered the Learning & Development ecosystem for Aviation L&D.
+*   🏆 **Future First AI Visionary**, Awarded by Salesforce Inc. for excellence in AI-driven innovation.
+*   🎖️ **Edvocate Leadership Award 2022**, For transformational leadership in education technology.
+*   💡 **Innovative Thinker Award**, Awarded by Miles Education for repeated breakthrough product contributions.
+*   🍏 **Founding Member, OSx86 (Hackintosh) Project**, One of the earliest global open-source contributors, at age 20.
+*   🤖 **Robotics Initiative**, Served as a Co-architect for major Robotics initiatives.
+*   ✈️ **Aviation Excellence**, Delivered the Learning & Development ecosystem for Aviation L&D.
 
 ---
 
 ## Education & Certifications
 
-*   📜 **Future First AI Visionary, Salesforce Inc.** — Executive certification in AI strategy and innovation.
-*   🔌 **MSME Micro-Technology Engineering** — Hardware and embedded systems foundation.
-*   🧠 **Continuous Executive Education** — Ongoing programs in agentic AI, applied ML, cloud architecture, and product leadership.
+*   📜 **Future First AI Visionary, Salesforce Inc.**, Executive certification in AI strategy and innovation.
+*   🔌 **MSME Micro-Technology Engineering**, Hardware and embedded systems foundation.
+*   🧠 **Continuous Executive Education**, Ongoing programs in agentic AI, applied ML, cloud architecture, and product leadership.
 
 ---
 
@@ -328,9 +345,7 @@ Custom agentic capabilities, workflow automations, and custom toolsets engineere
 
 <div align="center">
 
-I am open to discussing **Enterprise AI Strategy**, **Agentic Systems**, **Scale Engineering**, and **Product Leadership** partnerships.
-
-If you are looking to build or scale something complex at the intersection of AI and Software Architecture — let's connect.
+I am open to discussing **Enterprise AI Strategy**, **Agentic Systems**, **Scale Engineering**, and **Product Leadership** partnerships. If you are looking to build or scale something complex at the intersection of AI and Software Architecture, let's connect.
 
 <br/>
 
@@ -343,15 +358,5 @@ If you are looking to build or scale something complex at the intersection of AI
 ---
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivamchopra7/shivamchopra7/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivamchopra7/shivamchopra7/output/github-snake.svg" />
   <img alt="github-snake" src="./assets/github-snake-dark.svg" width="100%" />
-</picture>
-
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:635bff&height=120&section=footer" width="100%" />
