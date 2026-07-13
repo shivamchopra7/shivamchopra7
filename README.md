@@ -4,16 +4,16 @@
 
 <video src="https://raw.githubusercontent.com/shivamchopra7/shivamchopra7/main/assets/idling_video.mp4" width="300" autoplay loop muted playsinline></video>
 
-<a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=79c0ff&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Chief+Technology+Officer+%7C+AI+%26+Product+Strategy;Founder+%40+illusionart+AI+%7C+Co-Founder+%40+Miles+Education;Shipped+18%2B+Products+%7C+200%2B+Cr+Revenue+Impact;Salesforce+Future+First+AI+Visionary" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-shivamchopra.me-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shivamchopra.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam%20Chopra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamchopra7)
-[![Email](https://img.shields.io/badge/Email-hello%40shivamchopra.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@shivamchopra.me)
-[![illusionart AI](https://img.shields.io/badge/illusionart%20AI-Visit-7E57C2?style=for-the-badge&logo=artstation&logoColor=white)](https://illusionart.ai)
+<a href="https://shivamchopra.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-shivamchopra.me-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/shivamchopra7" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Shivam%20Chopra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:hello@shivamchopra.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-hello%40shivamchopra.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://illusionart.ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/illusionart%20AI-Visit-7E57C2?style=for-the-badge&logo=artstation&logoColor=white" alt="illusionart AI" /></a>
 
 </div>
 
@@ -105,14 +105,14 @@ class ShivamChopra:
 <tr>
 <td width="50%">
 
-**[Saaya (saaya.ai)](https://saaya.ai)** &nbsp; [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](#)
+**<a href="https://saaya.ai" target="_blank" rel="noopener noreferrer">Saaya (saaya.ai)</a>** &nbsp; <a href="#" target="_blank" rel="noopener noreferrer">![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)</a>
 <br/><br/>
 Real-time multilingual voice, video, and chat AI platform built end-to-end on AWS. Native WebRTC with sub-300 ms latency, integrated with payment gateways across 20+ Indian languages.
 
 </td>
 <td width="50%">
 
-**[Cerebro](#)** &nbsp; [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](#)
+**<a href="#" target="_blank" rel="noopener noreferrer">Cerebro</a>** &nbsp; <a href="#" target="_blank" rel="noopener noreferrer">![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)</a>
 <br/><br/>
 Autonomous AI agents that run business operations end to end across sales, support, and operations, automating workflow tasks and increasing efficiency.
 
@@ -121,14 +121,14 @@ Autonomous AI agents that run business operations end to end across sales, suppo
 <tr>
 <td>
 
-**[Miles Masterclass (milesmasterclass.com)](https://milesmasterclass.com)**
+**<a href="https://milesmasterclass.com" target="_blank" rel="noopener noreferrer">Miles Masterclass (milesmasterclass.com)</a>**
 <br/><br/>
 Netflix-style learning OTT platform with proprietary streaming protocols. Scaled to handle high-concurrency traffic while reducing third-party video streaming costs to near zero.
 
 </td>
 <td>
 
-**[Guyana Digital School (digitalschool.moe.edu.gy)](https://digitalschool.moe.edu.gy)**
+**<a href="https://digitalschool.moe.edu.gy" target="_blank" rel="noopener noreferrer">Guyana Digital School (digitalschool.moe.edu.gy)</a>**
 <br/><br/>
 Sovereign national digital education ecosystem delivered for the Government of Guyana, featuring AI-generated video curriculum and learning portals.
 
@@ -137,14 +137,14 @@ Sovereign national digital education ecosystem delivered for the Government of G
 <tr>
 <td>
 
-**[Pixelfluent.ai](#)**
+**<a href="#" target="_blank" rel="noopener noreferrer">Pixelfluent.ai</a>**
 <br/><br/>
 Generative design platform that translates abstract concepts into high-fidelity digital art and UI components through prompt-based orchestration.
 
 </td>
 <td>
 
-**[Penwizard.ai](#)**
+**<a href="#" target="_blank" rel="noopener noreferrer">Penwizard.ai</a>**
 <br/><br/>
 Media generation platform designed to democratize creativity by transforming descriptive text into professional-quality visual content for social media.
 
@@ -153,14 +153,14 @@ Media generation platform designed to democratize creativity by transforming des
 <tr>
 <td>
 
-**[Codecraft.illusionart.ai](#)**
+**<a href="#" target="_blank" rel="noopener noreferrer">Codecraft.illusionart.ai</a>**
 <br/><br/>
 A specialized prototyping environment that turns any flat image or sketch into a playable, interactive game.
 
 </td>
 <td>
 
-**[vibenmeet.com](#)**
+**<a href="#" target="_blank" rel="noopener noreferrer">vibenmeet.com</a>**
 <br/><br/>
 A voice call-based dating app offering real-time matchmaking and voice interactions.
 
@@ -169,14 +169,14 @@ A voice call-based dating app offering real-time matchmaking and voice interacti
 <tr>
 <td>
 
-**[Retro iPod Application](#)**
+**<a href="#" target="_blank" rel="noopener noreferrer">Retro iPod Application</a>**
 <br/><br/>
 A nostalgic, highly interactive web application reproducing the classic click-wheel iPod interface with authentic menu navigation, haptic-style interactions, and integrated audio playback.
 
 </td>
 <td>
 
-**[Shivoham Claude Skills](#)**
+**<a href="#" target="_blank" rel="noopener noreferrer">Shivoham Claude Skills</a>**
 <br/><br/>
 Custom agentic capabilities, workflow automations, and custom toolsets engineered for Anthropic's Claude models, streamlining developer tasks and multi-agent coordination.
 
@@ -187,9 +187,9 @@ Custom agentic capabilities, workflow automations, and custom toolsets engineere
 ### Product Suites Under My Leadership
 
 *   **Milesforce CRM & Miles Suite:** AI-powered CRM, CDP, LMS, ATS, and proprietary ERP operating the full EdTech stack.
-*   **Mojo Campus (mojocampus.com) & Matrix Campus (matrixcampus.in):** Campus management and student experience systems.
-*   **Eeshani (eeshani.in):** Custom luxury brand e-commerce platform.
-*   **Miles CPA LMS (cpa.mileseducation.com) & Miles CMA LMS (cma.mileseducation.com):** Advanced professional simulation LMS systems.
+*   **<a href="https://mojocampus.com" target="_blank" rel="noopener noreferrer">Mojo Campus (mojocampus.com)</a> & <a href="https://matrixcampus.in" target="_blank" rel="noopener noreferrer">Matrix Campus (matrixcampus.in)</a>:** Campus management and student experience systems.
+*   **<a href="https://eeshani.in" target="_blank" rel="noopener noreferrer">Eeshani (eeshani.in)</a>:** Custom luxury brand e-commerce platform.
+*   **<a href="https://cpa.mileseducation.com" target="_blank" rel="noopener noreferrer">Miles CPA LMS (cpa.mileseducation.com)</a> & <a href="https://cma.mileseducation.com" target="_blank" rel="noopener noreferrer">Miles CMA LMS (cma.mileseducation.com)</a>:** Advanced professional simulation LMS systems.
 
 ---
 
@@ -197,11 +197,8 @@ Custom agentic capabilities, workflow automations, and custom toolsets engineere
 
 <table>
 <tr>
-<td width="80" align="center">
-<img src="https://img.shields.io/badge/illusionart--ai-161b22?style=flat-square&logo=artstation&logoColor=7E57C2" width="60" alt="illusionart AI" />
-</td>
 <td>
-<strong>Founder & Chief Executive Officer</strong> &nbsp;•&nbsp; <a href="https://illusionart.ai">illusionart AI Private Limited</a><br/>
+<strong>Founder & Chief Executive Officer</strong> &nbsp;•&nbsp; <a href="https://illusionart.ai" target="_blank" rel="noopener noreferrer">illusionart AI Private Limited</a><br/>
 <sub>2024 — Present &nbsp;|&nbsp; Bengaluru, India</sub>
 <br/><br/>
 <strong>→</strong> Founded illusionart AI, partnering with EdTech firms, governments, and high-growth startups to ship enterprise AI products and agentic automation; <strong>18+ products</strong> and <strong>₹200 Cr+</strong> in cumulative revenue impact.<br/>
@@ -212,11 +209,9 @@ Custom agentic capabilities, workflow automations, and custom toolsets engineere
 </tr>
 
 <tr>
-<td width="80" align="center">
-<img src="https://img.shields.io/badge/Miles--Education-161b22?style=flat-square&logo=google-classroom&logoColor=3b82f6" width="60" alt="Miles Education" />
-</td>
+
 <td>
-<strong>Co-Founder & Chief Technology Officer</strong> &nbsp;•&nbsp; <a href="https://mileseducation.com">Miles Education Pvt. Ltd.</a><br/>
+<strong>Co-Founder & Chief Technology Officer</strong> &nbsp;•&nbsp; <a href="https://mileseducation.com" target="_blank" rel="noopener noreferrer">Miles Education Pvt. Ltd.</a><br/>
 <sub>2012 — Present &nbsp;|&nbsp; India • United States • Guyana</sub>
 <br/><br/>
 <strong>→</strong> Transformed Miles Education from a traditional coaching institute into a cloud-native, AI-driven EdTech platform contributing <strong>₹200 Cr+</strong> in revenue across India, the United States, and the Caribbean.<br/>
@@ -228,9 +223,6 @@ Custom agentic capabilities, workflow automations, and custom toolsets engineere
 </tr>
 
 <tr>
-<td width="80" align="center">
-<img src="https://img.shields.io/badge/OSx86-Hackintosh-161b22?style=flat-square&logo=apple&logoColor=white" width="60" alt="OSx86 Project" />
-</td>
 <td>
 <strong>Independent Technologist, Editor & Open Source Contributor</strong> &nbsp;•&nbsp; Film, TV & Open Source<br/>
 <sub>2009 — 2012 &nbsp;|&nbsp; India</sub>
@@ -342,9 +334,9 @@ If you are looking to build or scale something complex at the intersection of AI
 
 <br/>
 
-[![Website](https://img.shields.io/badge/shivamchopra.me-000?style=for-the-badge&logo=vercel&logoColor=white)](https://shivamchopra.me)
-[![Email](https://img.shields.io/badge/hello%40shivamchopra.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@shivamchopra.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamchopra7)
+<a href="https://shivamchopra.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/shivamchopra.me-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+<a href="mailto:hello@shivamchopra.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/hello%40shivamchopra.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/shivamchopra7" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
@@ -355,7 +347,7 @@ If you are looking to build or scale something complex at the intersection of AI
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivamchopra7/shivamchopra7/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivamchopra7/shivamchopra7/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shivamchopra7/shivamchopra7/output/github-snake.svg" width="100%" />
+  <img alt="github-snake" src="./assets/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
