@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=79c0ff&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Chief+Technology+Officer+%E2%80%A2+AI+%26+Product+Strategy;Founder+%40+illusionart+AI+%E2%80%A2+Co-Founder+%40+Miles+Education;Shipped+18%2B+Products+%E2%80%A2+%E2%82%B9200+Cr%2B+Revenue+Impact;Salesforce+Future+First+AI+Visionary" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=79c0ff&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Chief+Technology+Officer+%7C+AI+%26+Product+Strategy;Founder+%40+illusionart+AI+%7C+Co-Founder+%40+Miles+Education;Shipped+18%2B+Products+%7C+200%2B+Cr+Revenue+Impact;Salesforce+Future+First+AI+Visionary" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@
 
 ---
 
-## `> whoami`
+## `> WHO AM I`
 
 ```python
 class ShivamChopra:
@@ -38,17 +38,6 @@ class ShivamChopra:
     revenue_impact  = "₹200 Cr+ Cumulative Revenue Generated"
     scale           = "Led 100+ Engineers & Shipped 18+ Enterprise Products"
 ```
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivamchopra7/shivamchopra7/main/assets/profile-dark.svg">
-  <img width="100%" alt="Shivam Chopra Terminal Card" src="https://raw.githubusercontent.com/shivamchopra7/shivamchopra7/main/assets/profile-light.svg">
-</picture>
-
-</div>
 
 <br/>
 
@@ -321,13 +310,6 @@ A voice call-based dating app offering real-time matchmaking and voice interacti
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamchopra7&bg_color=0d1117&color=79c0ff&line=79c0ff&point=ffffff&area=true&hide_border=false" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamchopra7&show_icons=true&theme=dark&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamchopra7&layout=compact&theme=dark" width="48%" />
 </div>
 
 ---
