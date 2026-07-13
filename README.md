@@ -86,15 +86,15 @@ class ShivamChopra:
 ## What I'm Orchestrating Now
 
 ```text
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  🤖  Agentic AI & Multimodal Workflows (Saaya.ai, Cerebro)       │
-│  ⚡  Enterprise Cloud Scale & AWS Infrastructure Autonomic      │
-│  🔒  Securing Systems (DevSecOps, MFA, Access, Hardening)       │
-│  🎓  AI-driven EdTech Ecosystems & Interactive Prototyping       │
-│  🎨  Generative Art & Media Platforms (Pixelfluent, Penwizard)  │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────
+│
+│  🤖  Agentic AI & Multimodal Workflows (Saaya.ai, Cerebro)
+│  ⚡  Enterprise Cloud Scale & AWS Infrastructure Autonomic
+│  🔒  Securing Systems (DevSecOps, MFA, Access, Hardening)
+│  🎓  AI-driven EdTech Ecosystems & Interactive Prototyping
+│  🎨  Generative Art & Media Platforms (Pixelfluent, Penwizard)
+│
+└─────────────────────────────────────────────────────────────────
 ```
 
 ---

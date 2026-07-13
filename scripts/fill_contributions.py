@@ -38,13 +38,20 @@ def generate_contributions(days_back=35):
     total_commits = 0
     
     while current_date <= end_date:
-        # Avoid commit generation on certain days to make it look organic
-        # (e.g. fewer commits on weekends)
-        is_weekend = current_date.weekday() >= 5
-        if is_weekend:
-            commit_count = random.randint(0, 3)
+        # Determine day type using probabilities to create realistic variation
+        roll = random.random()
+        if roll < 0.15:
+            # Extreme crunch day: 15 to 30 commits (heavy spikes)
+            commit_count = random.randint(15, 30)
+        elif roll < 0.50:
+            # Normal busy day: 5 to 10 commits
+            commit_count = random.randint(5, 10)
+        elif roll < 0.80:
+            # Low activity day: 1 to 3 commits (some blips)
+            commit_count = random.randint(1, 3)
         else:
-            commit_count = random.randint(3, 8) # High activity on weekdays
+            # Day off: 0 commits (gaps)
+            commit_count = 0
             
         for _ in range(commit_count):
             hour = random.randint(9, 23)
