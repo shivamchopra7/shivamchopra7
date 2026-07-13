@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:635bff&height=230&section=header&text=Shivam%20Chopra&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Chief%20Technology%20Officer%20%7C%20AI%20%26%20Product%20Strategy&descSize=18&descAlignY=56&descAlign=50" width="100%" />
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
-
-<br/>
+<video src="https://anam-prod.3b4e2c62766b488dfadbba0f05120797.r2.cloudflarestorage.com/avatars/cara-4-8/one-shot/one-shot_7Zwl0pAiHEqprK5lPpBkeklMljotAgFx_shivam1782635265516/idling_video.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=e47683e072659a4276a0e716c5d228eb%2F20260713%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260713T173021Z&X-Amz-Expires=3600&X-Amz-Signature=5ffe539bb6cc38710cec50c66f76440c02ee6c331241ecbcb6f0d96e5cc73cc0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject" width="300" autoplay loop muted playsinline></video>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=79c0ff&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Chief+Technology+Officer+%7C+AI+%26+Product+Strategy;Founder+%40+illusionart+AI+%7C+Co-Founder+%40+Miles+Education;Shipped+18%2B+Products+%7C+200%2B+Cr+Revenue+Impact;Salesforce+Future+First+AI+Visionary" alt="Typing SVG" />
@@ -19,11 +15,17 @@
 [![Email](https://img.shields.io/badge/Email-hello%40shivamchopra.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@shivamchopra.me)
 [![illusionart AI](https://img.shields.io/badge/illusionart%20AI-Visit-7E57C2?style=for-the-badge&logo=artstation&logoColor=white)](https://illusionart.ai)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=shivamchopra7&style=for-the-badge&color=635bff&label=PROFILE+VIEWS" alt="Profile Views" />
-
 </div>
+
+---
+
+## About Me
+
+> Back in 2011, I shipped a product with a bunch of people I'd never met in person. Just strangers on the internet, fueled by caffeine and questionable life choices. Somehow it went viral, and our project - Osx86 / Hackintosh, turned into the biggest hackintosh community on the planet.
+>
+> Fast forward 15 years. Same energy. Same caffeine. Different product.
+>
+> **This time, I'm here with something even bigger.**
 
 ---
 
@@ -161,6 +163,22 @@ A specialized prototyping environment that turns any flat image or sketch into a
 **[vibenmeet.com](#)**
 <br/><br/>
 A voice call-based dating app offering real-time matchmaking and voice interactions.
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[Retro iPod Application](#)**
+<br/><br/>
+A nostalgic, highly interactive web application reproducing the classic click-wheel iPod interface with authentic menu navigation, haptic-style interactions, and integrated audio playback.
+
+</td>
+<td>
+
+**[Shivoham Claude Skills](#)**
+<br/><br/>
+Custom agentic capabilities, workflow automations, and custom toolsets engineered for Anthropic's Claude models, streamlining developer tasks and multi-agent coordination.
 
 </td>
 </tr>
