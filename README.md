@@ -230,7 +230,7 @@ Custom agentic capabilities, workflow automations, and custom toolsets engineere
 <sub>2009, 2012 &nbsp;|&nbsp; India</sub>
 <br/><br/>
 <strong>→</strong> Founding member of the <strong>OSx86 (Hackintosh) Project</strong> at age 20, an early global open-source effort to port macOS to standard x86 hardware.<br/>
-<strong>→</strong> Built early prototypes of proprietary CRM, ATS, and ERP platforms, and worked as an editor and assistant director across TV series, feature films, and educational content.
+<strong>→</strong> Worked as an editor and assistant director across TV series, feature films, and educational content.
 </td>
 </tr>
 </table>
