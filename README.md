@@ -32,7 +32,7 @@
 ---
 
 ## `> WHO AM I`
-
+<div align="left">
 ```python
 class ShivamChopra:
     role            = "Chief Technology Officer @ Miles Education · Founder @ illusionart AI"
@@ -42,6 +42,7 @@ class ShivamChopra:
     revenue_impact  = "₹200 Cr+ Cumulative Revenue Generated"
     scale           = "Led 100+ Engineers & Shipped 18+ Enterprise Products"
 ```
+</div>
 
 <br/>
 
