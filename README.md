@@ -335,17 +335,6 @@ Custom agentic capabilities, workflow automations, and custom toolsets engineere
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/shivamchopra7" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamchopra7&bg_color=0d1117&color=ffb879&line=ffb879&point=ffffff&area=true&area_color=ffb879&hide_border=false&custom_title=Shivam%20Chopra%20Contribution%20Graph%20(Last%2031%20Days)" width="100%" alt="Shivam Chopra GitHub activity graph (last 31 days)" />
-  </a>
-</div>
-
-
----
-
 ## Let's Connect
 
 <div align="center">
