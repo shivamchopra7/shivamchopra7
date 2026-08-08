@@ -339,7 +339,7 @@ Custom agentic capabilities, workflow automations, and custom toolsets engineere
 
 <div align="center">
   <a href="https://github.com/shivamchopra7" target="_blank" rel="noopener noreferrer">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamchopra7)" width="100%" alt="Shivam Chopra GitHub activity graph (last 31 days)" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamchopra7" width="100%" alt="Shivam Chopra GitHub activity graph (last 31 days)" />
   </a>
 </div>
 
