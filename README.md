@@ -128,16 +128,7 @@ Autonomous AI agents that run business operations end to end across sales, suppo
 Netflix-style learning OTT platform with proprietary streaming protocols. Scaled to handle high-concurrency traffic while reducing third-party video streaming costs to near zero.
 
 </td>
-<td>
 
-**<a href="https://digitalschool.moe.edu.gy" target="_blank" rel="noopener noreferrer">Guyana Digital School (digitalschool.moe.edu.gy)</a>**
-<br/><br/>
-Sovereign national digital education ecosystem delivered for the Government of Guyana, featuring AI-generated video curriculum and learning portals.
-
-</td>
-</tr>
-<tr>
-<td>
 
 **<a href="#" target="_blank" rel="noopener noreferrer">Pixelfluent.ai</a>**
 <br/><br/>
