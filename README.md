@@ -31,30 +31,6 @@
 >
 > I am a **Chief Technology Officer who still writes and ships code**. I've built and scaled engineering teams from 12 to 110+ engineers, engineered sovereign national education ecosystems for governments, architected real-time voice and video AI platforms solo from research to production, and built product suites that generated **₹500 Cr+ (~$50M+)** in cumulative enterprise revenue across India, the US, and the Caribbean.
 
----
-
-## `> WHO_AM_I.py`
-
-```python
-class ShivamChopra:
-    title          = "CTO Who Still Ships Code"
-    current_roles  = [
-        "Co-Founder & Chief Technology Officer @ Miles Education",
-        "Founder & Chief Executive Officer @ illusionart AI"
-    ]
-    experience     = "14+ Years (12+ in High-Scale Executive Engineering)"
-    revenue_impact = "₹500 Cr+ (~$50M+) Cumulative Enterprise Revenue Generated"
-    scale_record   = "Shipped 18+ Products | Scaled Engineering Org from 12 to 110+ Engineers"
-    specialization = [
-        "Agentic AI & Evaluation Harnesses (Tool Calling, MCP, RAG, Evals)",
-        "Real-Time Voice & Multimodal AI (<300ms WebRTC, 50+ Languages)",
-        "Enterprise Cloud Scale (AWS, GCP, Kubernetes, Kafka, Postgres)",
-        "High-Transaction Fintech Billing & Sovereign National EdTech Platforms"
-    ]
-    open_source    = "Founding Member, OSx86 / Hackintosh Project (Age 20)"
-    honors         = ["Salesforce Future First AI Visionary", "Edvocate Leadership Award"]
-```
-
 <br/>
 
 <div align="center">
