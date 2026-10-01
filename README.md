@@ -325,6 +325,9 @@ A native macOS utility that reads laptop lid angle telemetry in real time to dri
 
   <br/><br/>
 
-  <img alt="GitHub Contribution Snake" src="./assets/github-snake-dark.svg" width="100%" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivamchopra7/shivamchopra7/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivamchopra7/shivamchopra7/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shivamchopra7/shivamchopra7/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </div>
