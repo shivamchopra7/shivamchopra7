@@ -90,7 +90,9 @@ A curated showcase of flagship platforms and products architected, built, and sh
   <img src="./assets/project-saaya-ai.jpg" width="100%" alt="Saaya.ai: Real-Time Video, Voice & Chat AI Agents" style="border-radius: 8px;" />
 </a>
 
-### 🎙️ [Saaya.ai](https://saaya.ai) &nbsp; `Flagship AI Platform`
+### 🎙️ [Saaya.ai](https://saaya.ai)
+<sub>Flagship AI Platform</sub>
+<br/>
 > **Role:** Founder & Sole Engineer, illusionart AI
 
 Real-time conversational AI platform with voice, video, chat, and photoreal lip-synced avatars — engineered for automated video KYC, onboarding, customer support, and interactive AI tutoring.
@@ -124,7 +126,9 @@ Real-time conversational AI platform with voice, video, chat, and photoreal lip-
   <img src="./assets/project-illusionart-studios.jpg" width="100%" alt="illusionart Studios: AI-Generated Training Films in 2-5 Days" style="border-radius: 8px;" />
 </a>
 
-### 🎥 [illusionart Studios](https://illusionart.ai) &nbsp; `Generative AI Film Production`
+### 🎥 [illusionart Studios](https://illusionart.ai)
+<sub>Generative AI Film Production</sub>
+<br/>
 > **Role:** Founder & CEO, illusionart AI
 
 An AI-driven film studio producing custom enterprise training videos, compliance SOP films, and high-impact commercial campaigns in days instead of months.
@@ -159,7 +163,9 @@ An AI-driven film studio producing custom enterprise training videos, compliance
   <img src="./assets/project-miles-masterclass.jpg" width="100%" alt="Miles Masterclass: Netflix-Style Learning OTT Platform" style="border-radius: 8px;" />
 </a>
 
-### 🎬 [Miles Masterclass](https://milesmasterclass.com) &nbsp; `Learning OTT Platform`
+### 🎬 [Miles Masterclass](https://milesmasterclass.com)
+<sub>Learning OTT Platform</sub>
+<br/>
 > **Role:** Co-Founder & CTO, Miles Education
 
 A Netflix-style streaming platform for professional education and CPE accreditation, serving thousands of finance and accounting professionals globally.
@@ -191,7 +197,9 @@ A Netflix-style streaming platform for professional education and CPE accreditat
   <img src="./assets/project-milesforce-crm.jpg" width="100%" alt="Milesforce AI CRM & Agentic Automation" style="border-radius: 8px;" />
 </a>
 
-### ⚡ [Milesforce CRM & Automation](https://mileseducation.com) &nbsp; `Enterprise AI Stack`
+### ⚡ [Milesforce CRM & Automation](https://mileseducation.com)
+<sub>Enterprise AI Stack</sub>
+<br/>
 > **Role:** Co-Founder & CTO, Miles Education
 
 Comprehensive proprietary AI-driven business suite powering a multi-country EdTech enterprise: custom CRM, Customer Data Platform (Miles Engage), ATS, LMS, and ERP.
@@ -225,7 +233,9 @@ Comprehensive proprietary AI-driven business suite powering a multi-country EdTe
   <img src="./assets/project-penwizard.jpg" width="100%" alt="PenWizard: Generative AI Studio for Social Content & Video Ads" style="border-radius: 8px;" />
 </a>
 
-### 🎨 [PenWizard](https://penwizard.ai) &nbsp; `Generative AI Creative Studio`
+### 🎨 [PenWizard](https://penwizard.ai)
+<sub>Generative AI Creative Studio</sub>
+<br/>
 > **Role:** Founder & CEO, illusionart AI
 
 A self-serve generative AI studio enabling brands, growth marketers, and creators to generate high-performing visual campaigns in minutes.
@@ -257,7 +267,9 @@ A self-serve generative AI studio enabling brands, growth marketers, and creator
   <img src="./assets/project-milesone-app.jpg" width="100%" alt="MilesOne: Student App with 50,000+ Users" style="border-radius: 8px;" />
 </a>
 
-### 📱 [MilesOne](https://mileseducation.com) &nbsp; `Student Super App (50k+ Users)`
+### 📱 [MilesOne](https://mileseducation.com)
+<sub>Student Super App (50k+ Users)</sub>
+<br/>
 > **Role:** Co-Founder & CTO, Miles Education
 
 The central mobile app ecosystem powering the daily educational journey of 50,000+ enrolled students and working professionals.
@@ -290,7 +302,9 @@ The central mobile app ecosystem powering the daily educational journey of 50,00
   <img src="./assets/project-cerebro-agents.jpg" width="100%" alt="Cerebro: Autonomous AI Agents for Sales, Support & Operations" style="border-radius: 8px;" />
 </a>
 
-### 🧠 [Cerebro AI](https://github.com/shivamchopra7) &nbsp; `Autonomous Multi-Agent Framework`
+### 🧠 [Cerebro AI](https://github.com/shivamchopra7)
+<sub>Autonomous Multi-Agent Framework</sub>
+<br/>
 > **Role:** Founder & Architect, illusionart AI
 
 An open-source multi-agent framework where autonomous business agents plan, call tools, and hand off tasks to execute end-to-end sales, customer support, and operational workflows.
@@ -324,7 +338,9 @@ An open-source multi-agent framework where autonomous business agents plan, call
   <img src="./assets/project-macbook-duo.jpg" width="100%" alt="MacBook Duo: macOS App That Animates With Your Laptop Lid" style="border-radius: 8px;" />
 </a>
 
-### 💻 [MacBook Duo](https://macbookduo.illusionart.ai) &nbsp; `Hardware-Aware macOS App`
+### 💻 [MacBook Duo](https://macbookduo.illusionart.ai)
+<sub>Hardware-Aware macOS App</sub>
+<br/>
 > **Role:** Founder & CEO, illusionart AI
 
 A whimsical native macOS desktop application that reads laptop lid angle sensors in real time and drives physics-based animations that mirror your physical lid movements.
