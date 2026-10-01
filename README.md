@@ -25,11 +25,7 @@
 
 ## ⚡ About Me
 
-> Back in 2011, I shipped a product with a group of people I had never met in person. Strangers on the internet, fueled by caffeine and pure obsession. Somehow it went viral, and our project — **OSx86 / Hackintosh** — grew into the biggest Hackintosh community on the planet.
->
-> 15 years later: same energy, same caffeine, bigger frontiers.
->
-> I am a **Chief Technology Officer who still writes and ships code**. I've built and scaled engineering teams from 12 to 110+ engineers, engineered sovereign national education ecosystems for governments, architected real-time voice and video AI platforms solo from research to production, and built product suites that generated **₹500 Cr+ (~$50M+)** in cumulative enterprise revenue across India, the US, and the Caribbean.
+Chief Technology Officer who still designs architectures and writes production code. From founding the **OSx86 / Hackintosh** community in 2011 to scaling engineering teams from 12 to 110+, I build mission-critical enterprise systems and generative AI platforms that have delivered **₹500 Cr+ (~$50M+)** in cumulative business volume.
 
 <br/>
 
@@ -38,37 +34,19 @@
 <tr>
 <td align="center" width="25%">
 <h3>🚀 18+</h3>
-<sub>Enterprise Products Shipped</sub>
+<sub>Products Shipped</sub>
 </td>
 <td align="center" width="25%">
 <h3>💰 ₹500 Cr+</h3>
-<sub>Cumulative Revenue Impact</sub>
+<sub>Revenue Impact</sub>
 </td>
 <td align="center" width="25%">
 <h3>👥 110+</h3>
-<sub>Engineers Scaled & Led</sub>
+<sub>Engineers Scaled</sub>
 </td>
 <td align="center" width="25%">
 <h3>⚡ &lt;300 ms</h3>
-<sub>Real-Time Voice AI Latency</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<h3>🎓 50,000+</h3>
-<sub>Active Users on MilesOne</sub>
-</td>
-<td align="center">
-<h3>📈 55% Lift</h3>
-<sub>Sales Efficiency via AI Agents</sub>
-</td>
-<td align="center">
-<h3>⚡ 70% Cut</h3>
-<sub>Manual Ops Work Automated</sub>
-</td>
-<td align="center">
-<h3>🏆 Visionary</h3>
-<sub>Salesforce Future First Award</sub>
+<sub>Real-Time Voice AI</sub>
 </td>
 </tr>
 </table>
@@ -76,376 +54,240 @@
 
 ---
 
-## 💼 Featured Project Showcase
+## 💼 Featured Projects
 
-A curated showcase of flagship platforms and products architected, built, and shipped across enterprise AI, real-time media, streaming, and sovereign cloud systems.
+Flagship platforms architected, built, and shipped across enterprise AI, real-time media, streaming, and high-concurrency systems.
 
 <br/>
 
 ### 🎙️ [Saaya.ai](https://saaya.ai)
-<sub>Flagship AI Platform</sub>
-
-<br/>
+<sub>Flagship Conversational AI Platform · Founder & Sole Engineer</sub>
 
 <a href="https://saaya.ai" target="_blank" rel="noopener noreferrer">
   <img src="./assets/project-saaya-ai.jpg" width="100%" alt="Saaya.ai: Real-Time Video, Voice & Chat AI Agents" />
 </a>
 
-<br/>
+Real-time multimodal conversational AI platform powering photoreal lip-synced video and voice agents for automated video KYC, onboarding, and customer support.
 
-**Role:** Founder & Sole Engineer, illusionart AI
+- **Ultra-Low Latency:** Under 300 ms voice round-trip via native WebRTC.
+- **Multimodal Intelligence:** 50+ languages, real-time computer vision, and liveness verification.
+- **End-to-End Build:** Architected solo from research to production on AWS/GCP with dynamic multi-LLM routing.
 
-Real-time conversational AI platform with voice, video, chat, and photoreal lip-synced avatars — engineered for automated video KYC, onboarding, customer support, and interactive AI tutoring.
-
-- **Ultra-Low Latency:** Under 300 ms voice round-trip over native WebRTC.
-- **Multilingual Support:** 50+ languages, including 20+ Indian languages and Hinglish.
-- **Multimodal Intelligence:** Real-time computer vision, sentiment analysis, and liveness detection.
-- **Rapid Provisioning:** ~15 minutes from API key to a fully deployed live agent.
-- **Architecture:** Built solo from research to production on Kubernetes across AWS and GCP, with dynamic multi-model routing and fallbacks across OpenAI, Anthropic, Gemini, and ElevenLabs.
-
-<br/>
-
-<div>
+<p>
   <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC"/>
   <img src="https://img.shields.io/badge/Python_FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logoColor=black" alt="Deepgram"/>
   <img src="https://img.shields.io/badge/ElevenLabs-2E7D32?style=flat-square" alt="ElevenLabs"/>
-  <img src="https://img.shields.io/badge/AWS%20%2F%20GCP-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-</div>
+  &nbsp;
+  <a href="https://saaya.ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit_Platform-saaya.ai-00C853?style=flat-square&logo=google-chrome&logoColor=white" alt="Visit Saaya.ai"/></a>
+</p>
 
 <br/>
-
-<a href="https://saaya.ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit_Platform-saaya.ai-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Saaya.ai"/></a>
-
-<br/><br/>
 
 ---
 
 ### 🎥 [illusionart Studios](https://illusionart.ai)
-<sub>Generative AI Film Production</sub>
-
-<br/>
+<sub>Generative AI Film Production · Founder & CEO</sub>
 
 <a href="https://illusionart.ai" target="_blank" rel="noopener noreferrer">
   <img src="./assets/project-illusionart-studios.jpg" width="100%" alt="illusionart Studios: AI-Generated Training Films in 2-5 Days" />
 </a>
 
-<br/>
+Generative AI film studio producing broadcast-ready corporate training films, compliance SOPs, and commercial campaigns in days instead of months.
 
-**Role:** Founder & CEO, illusionart AI
+- **10x Turnaround:** Broadcast-quality films delivered in 2–5 days vs. traditional 6–10 week production.
+- **90%+ Cost Cut:** ~$600 per 5-minute film vs. $10,000+ for standard physical video shoots.
+- **Global Localization:** Automated voice synthesis and photorealistic lip-sync across 100+ languages.
 
-An AI-driven film studio producing custom enterprise training videos, compliance SOP films, and high-impact commercial campaigns in days instead of months.
-
-- **10x Speed:** Delivers broadcast-ready training films in **2–5 days** instead of traditional 6–10 week production cycles.
-- **90%+ Cost Reduction:** Cuts production costs to ~$600 per 5-minute video compared to $10,000+ for traditional shoots.
-- **Global Localization:** Automated voice-over and photorealistic lip-sync across **100+ languages**.
-- **Real-World Impact:** Deployed across airline aviation SOPs, luxury fashion campaigns, and corporate training repositories.
-- **Film Craft + AI Pipeline:** Blends generative video and synthetic voice models with Hollywood-grade editorial direction rooted in my early film editing career.
-
-<br/>
-
-<div>
+<p>
   <img src="https://img.shields.io/badge/AI_Film_Production-7B1FA2?style=flat-square" alt="AI Film"/>
   <img src="https://img.shields.io/badge/Generative_Video-E91E63?style=flat-square" alt="Video"/>
   <img src="https://img.shields.io/badge/Voice_Synthesis-2E7D32?style=flat-square" alt="Voice"/>
   <img src="https://img.shields.io/badge/100+_Languages-00ACC1?style=flat-square" alt="Languages"/>
-  <img src="https://img.shields.io/badge/Enterprise_SOPs-37474F?style=flat-square" alt="Enterprise"/>
-</div>
+  &nbsp;
+  <a href="https://illusionart.ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Explore_Studios-illusionart.ai-7E57C2?style=flat-square&logo=artstation&logoColor=white" alt="illusionart.ai"/></a>
+</p>
 
 <br/>
-
-<a href="https://illusionart.ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Explore_Studios-illusionart.ai-7E57C2?style=for-the-badge&logo=artstation&logoColor=white" alt="illusionart.ai"/></a>
-
-<br/><br/>
 
 ---
 
 ### 🎬 [Miles Masterclass](https://milesmasterclass.com)
-<sub>Learning OTT Platform</sub>
-
-<br/>
+<sub>Learning OTT Platform · Co-Founder & CTO</sub>
 
 <a href="https://milesmasterclass.com" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/project-miles-masterclass.jpg" width="100%" alt="Miles Masterclass: Netflix-Style Learning OTT Platform" />
+  <img src="./assets/project-miles-masterclass.jpg" width="100%" alt="Miles Masterclass: Learning OTT Platform" />
 </a>
 
-<br/>
+Netflix-style streaming and CPE accreditation platform serving thousands of finance and accounting professionals worldwide.
 
-**Role:** Co-Founder & CTO, Miles Education
+- **Custom Video Engine:** Proprietary streaming architecture reducing 3rd-party video hosting costs to near zero.
+- **High-Concurrency Scale:** Adaptive bitrate delivery engineered for zero-buffering live and on-demand streaming.
+- **Global Monetization:** Automated multi-currency checkout, dynamic subscriptions, and proctored LMS sync.
 
-A Netflix-style streaming platform for professional education and CPE accreditation, serving thousands of finance and accounting professionals globally.
-
-- **Custom Video Engine:** Proprietary in-house streaming architecture reducing 3rd-party video hosting costs to near-zero.
-- **High-Transaction Architecture:** Engineered for massive concurrent streaming workloads with adaptive bitrate delivery.
-- **Fintech Integration:** Automated multi-currency enrollment, billing cycles, and automated payment gateways.
-- **Enterprise Delivery:** End-to-end ownership of architecture, DevOps pipelines, and continuous reliability.
-
-<br/>
-
-<div>
+<p>
   <img src="https://img.shields.io/badge/Streaming_OTT-E50914?style=flat-square&logo=netflix&logoColor=white" alt="Streaming"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Payments_Billing-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-</div>
+  &nbsp;
+  <a href="https://milesmasterclass.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit_Platform-milesmasterclass.com-00C853?style=flat-square&logo=google-chrome&logoColor=white" alt="Visit Miles Masterclass"/></a>
+</p>
 
 <br/>
-
-<a href="https://milesmasterclass.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit_Platform-milesmasterclass.com-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Miles Masterclass"/></a>
-
-<br/><br/>
 
 ---
 
 ### ⚡ [Milesforce CRM & Automation](https://mileseducation.com)
-<sub>Enterprise AI Stack</sub>
-
-<br/>
+<sub>Enterprise AI Stack & Workflows · Co-Founder & CTO</sub>
 
 <a href="https://mileseducation.com" target="_blank" rel="noopener noreferrer">
   <img src="./assets/project-milesforce-crm.jpg" width="100%" alt="Milesforce AI CRM & Agentic Automation" />
 </a>
 
-<br/>
+Proprietary AI business suite powering a multi-country EdTech enterprise across admissions, operations, LMS, and finance.
 
-**Role:** Co-Founder & CTO, Miles Education
+- **55% Higher Sales Velocity:** Autonomous AI agents handle instant qualification, follow-ups, and calendar booking.
+- **70% Manual Work Cut:** Unified automated workflows across WhatsApp API, Twilio, Stripe, Razorpay, and n8n.
+- **Core Engine:** Backbone platform powering ₹500 Cr+ (~$50M+) in cumulative business transactions.
 
-Comprehensive proprietary AI-driven business suite powering a multi-country EdTech enterprise: custom CRM, Customer Data Platform (Miles Engage), ATS, LMS, and ERP.
-
-- **55% Higher Sales Efficiency:** Achieved through autonomous AI agents handling real-time demo scheduling, instant lead qualification, and dynamic follow-ups.
-- **70% Manual Work Automated:** Elimination of repetitive administrative tasks across admissions, finance, HR, and learner support.
-- **Deep Integrations:** Unified workflows across WhatsApp Business API, Twilio, Stripe, Razorpay, Salesforce, and n8n.
-- **Scale & Impact:** Backbone platform powering **₹500 Cr+ (~$50M+)** in cumulative business volume.
-
-<br/>
-
-<div>
+<p>
   <img src="https://img.shields.io/badge/n8n_Workflows-FF6C37?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce"/>
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio"/>
   <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  <img src="https://img.shields.io/badge/Razorpay_Stripe-1C2A38?style=flat-square" alt="Payments"/>
-</div>
+  &nbsp;
+  <a href="https://mileseducation.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Enterprise_Suite-Miles%20Education-1565C0?style=flat-square&logo=google-chrome&logoColor=white" alt="Miles Education"/></a>
+</p>
 
 <br/>
-
-<a href="https://mileseducation.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Enterprise_Suite-Miles%20Education-1565C0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Miles Education"/></a>
-
-<br/><br/>
 
 ---
 
 ### 🎨 [PenWizard](https://penwizard.ai)
-<sub>Generative AI Creative Studio</sub>
-
-<br/>
+<sub>Generative AI Creative Studio · Founder & CEO</sub>
 
 <a href="https://penwizard.ai" target="_blank" rel="noopener noreferrer">
   <img src="./assets/project-penwizard.jpg" width="100%" alt="PenWizard: Generative AI Studio for Social Content & Video Ads" />
 </a>
 
-<br/>
+Self-serve creative studio enabling growth teams and creators to produce high-converting marketing content and video ads in minutes.
 
-**Role:** Founder & CEO, illusionart AI
+- **Automated Creative Suite:** Multi-platform social copy, dynamic image generation, and localized captions.
+- **AI Product Renders:** Studio-grade scene synthesis replacing traditional physical photoshoots.
+- **Short-Form Video Ads:** Multi-modal prompt-to-video ad synthesis optimized for Reels, TikTok, and Shorts.
 
-A self-serve generative AI studio enabling brands, growth marketers, and creators to generate high-performing visual campaigns in minutes.
-
-- **Content Suite:** Automated social media post generation, smart copywriting, and localized caption creation.
-- **AI Product Photography:** Dynamic scene synthesis and commercial product render replacements without photoshoots.
-- **Short-Form Video Ads:** Multi-modal prompt-to-video ad synthesis optimized for Reels, TikTok, and YouTube Shorts.
-- **Multi-Model Pipeline:** Orchestrated on top of state-of-the-art vision, video, and language models with asynchronous generation queues.
-
-<br/>
-
-<div>
+<p>
   <img src="https://img.shields.io/badge/Generative_AI-8E24AA?style=flat-square" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Async_Queues-FF6600?style=flat-square" alt="Queues"/>
-  <img src="https://img.shields.io/badge/SaaS-43A047?style=flat-square" alt="SaaS"/>
-</div>
+  &nbsp;
+  <a href="https://penwizard.ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit_Platform-penwizard.ai-00C853?style=flat-square&logo=google-chrome&logoColor=white" alt="Visit PenWizard"/></a>
+</p>
 
 <br/>
-
-<a href="https://penwizard.ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit_Platform-penwizard.ai-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit PenWizard"/></a>
-
-<br/><br/>
 
 ---
 
 ### 📱 [MilesOne](https://mileseducation.com)
-<sub>Student Super App (50k+ Users)</sub>
-
-<br/>
+<sub>Student Super App (50k+ Users) · Co-Founder & CTO</sub>
 
 <a href="https://mileseducation.com" target="_blank" rel="noopener noreferrer">
   <img src="./assets/project-milesone-app.jpg" width="100%" alt="MilesOne: Student App with 50,000+ Users" />
 </a>
 
-<br/>
+Central mobile super-app managing the daily learning lifecycle for 50,000+ enrolled students and working professionals.
 
-**Role:** Co-Founder & CTO, Miles Education
+- **High-Concurrency Scale:** Live class streaming, attendance tracking, community channels, and instant push alerts.
+- **Connected Ecosystem:** Deep bi-directional sync with Milesforce CRM, examination engines, and LMS portals.
+- **Scale & Trust:** Robust mobile architecture with enterprise data protection and biometric authentication.
 
-The central mobile app ecosystem powering the daily educational journey of 50,000+ enrolled students and working professionals.
-
-- **High-Concurrency Scale:** Built to handle live classes, session attendance, community chats, and real-time push alerts.
-- **End-to-End Integration:** Seamless bi-directional sync with Milesforce CRM, the examination engine, and LMS repositories.
-- **High-Security Standards:** Enterprise data protection, secure authentication, and encrypted document storage.
-- **Product Strategy:** Steered from initial roadmap and UX prototypes to 50,000+ active learners across India and the US.
-
-<br/>
-
-<div>
+<p>
   <img src="https://img.shields.io/badge/Mobile_App-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Mobile"/>
   <img src="https://img.shields.io/badge/50k+_Users-4CAF50?style=flat-square" alt="Scale"/>
   <img src="https://img.shields.io/badge/Cloud_APIs-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Real--Time_Sync-FF6F00?style=flat-square" alt="Sync"/>
-</div>
+  &nbsp;
+  <a href="https://mileseducation.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Learner_App-MilesOne-1565C0?style=flat-square&logo=google-play&logoColor=white" alt="MilesOne"/></a>
+</p>
 
 <br/>
-
-<a href="https://mileseducation.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Learner_App-MilesOne-1565C0?style=for-the-badge&logo=google-play&logoColor=white" alt="MilesOne"/></a>
-
-<br/><br/>
 
 ---
 
 ### 🧠 [Cerebro AI](https://github.com/shivamchopra7)
-<sub>Autonomous Multi-Agent Framework</sub>
-
-<br/>
+<sub>Autonomous Multi-Agent Framework · Founder & Architect</sub>
 
 <a href="https://github.com/shivamchopra7" target="_blank" rel="noopener noreferrer">
   <img src="./assets/project-cerebro-agents.jpg" width="100%" alt="Cerebro: Autonomous AI Agents for Sales, Support & Operations" />
 </a>
 
-<br/>
+Production-grade agentic orchestration framework where autonomous AI agents plan, call tools, and execute end-to-end business workflows.
 
-**Role:** Founder & Architect, illusionart AI
+- **Agent Harness:** State machines, structured function calling, and Model Context Protocol (MCP) integrations.
+- **Resilient Routing:** Multi-model routing with fallback cascades across OpenAI, Claude, and Gemini.
+- **Self-Healing Automation:** Converts brittle manual tasks into deterministic, observable agent routines.
 
-An open-source multi-agent framework where autonomous business agents plan, call tools, and hand off tasks to execute end-to-end sales, customer support, and operational workflows.
-
-- **Agent Harness:** Orchestration loops, structured outputs, function calling, and Model Context Protocol (MCP) integrations.
-- **Coordination & Memory:** Multi-agent collaboration with persistent session memory and token-budget context pruning.
-- **Safety & Guardrails:** Automated validation gates, output sanitization, and evaluation loops.
-- **Resilient Routing:** Multi-model routing with fallback cascades across OpenAI, Anthropic Claude, and Google Gemini.
-- **Operational Impact:** Automates complex repetitive human workflows into self-healing background jobs.
-
-<br/>
-
-<div>
+<p>
   <img src="https://img.shields.io/badge/Agentic_AI-000000?style=flat-square&logo=google-gemini&logoColor=white" alt="Agentic AI"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/MCP_Protocol-1F6FEB?style=flat-square" alt="MCP"/>
-  <img src="https://img.shields.io/badge/Anthropic-CC9900?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
-</div>
+  <img src="https://img.shields.io/badge/MCP-1F6FEB?style=flat-square" alt="MCP"/>
+  &nbsp;
+  <a href="https://github.com/shivamchopra7" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Framework-GitHub-24292E?style=flat-square&logo=github&logoColor=white" alt="View on GitHub"/></a>
+</p>
 
 <br/>
-
-<a href="https://github.com/shivamchopra7" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Framework-GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/></a>
-
-<br/><br/>
 
 ---
 
 ### 💻 [MacBook Duo](https://macbookduo.illusionart.ai)
-<sub>Hardware-Aware macOS App</sub>
-
-<br/>
+<sub>Hardware-Aware macOS App · Founder & CEO</sub>
 
 <a href="https://macbookduo.illusionart.ai" target="_blank" rel="noopener noreferrer">
   <img src="./assets/project-macbook-duo.jpg" width="100%" alt="MacBook Duo: macOS App That Animates With Your Laptop Lid" />
 </a>
 
-<br/>
+A native macOS utility that reads laptop lid angle telemetry in real time to drive physics-based animations mirroring physical lid movements.
 
-**Role:** Founder & CEO, illusionart AI
+- **Sensor Telemetry:** Direct integration with MacBook lid angle and motion sensor APIs.
+- **Fluid Physics:** 60/120 FPS animation loops reacting dynamically to hardware adjustments.
+- **Craft & Delight:** Packaged, notarized, and distributed as an exploration in human-hardware interaction.
 
-A whimsical native macOS desktop application that reads laptop lid angle sensors in real time and drives physics-based animations that mirror your physical lid movements.
-
-- **Hardware Sensor Integration:** Direct access to MacBook lid angle and motion sensor telemetry.
-- **Real-Time Physics:** Silky smooth 60/120 FPS animation loops reacting directly to physical adjustments.
-- **Craft & Delight:** Built to stay connected to micro-interactions, hardware-software bridges, and unexpected UX delight.
-- **Shipped Product:** Packaged, notarized, and distributed publicly as a desktop experiment.
-
-<br/>
-
-<div>
+<p>
   <img src="https://img.shields.io/badge/macOS_Native-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/Sensor_Telemetry-4A154B?style=flat-square" alt="Sensors"/>
-  <img src="https://img.shields.io/badge/Motion_Design-FF007F?style=flat-square" alt="Motion"/>
-</div>
+  <img src="https://img.shields.io/badge/Sensors-4A154B?style=flat-square" alt="Sensors"/>
+  &nbsp;
+  <a href="https://macbookduo.illusionart.ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit_App-macbookduo-00C853?style=flat-square&logo=apple&logoColor=white" alt="Visit MacBook Duo"/></a>
+</p>
 
 <br/>
 
-<a href="https://macbookduo.illusionart.ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit_App-macbookduo-00C853?style=for-the-badge&logo=apple&logoColor=white" alt="Visit MacBook Duo"/></a>
-
 ---
 
-## 🏛️ Additional Product Ecosystem & Inventions
+## 🏛️ More Products & Systems
 
-Beyond the primary showcase, platforms and ecosystems designed and operated under my architectural leadership:
-
-*   **<a href="https://cpa.mileseducation.com" target="_blank">Miles CPA & CMA LMS</a>:** High-fidelity simulation LMS platforms mimicking real AICPA & IMA proctored examination environments.
+*   **<a href="https://cpa.mileseducation.com" target="_blank">Miles CPA & CMA LMS</a>:** High-fidelity simulation LMS platforms mimicking real AICPA & IMA proctored exams.
 *   **<a href="https://mojocampus.com" target="_blank">Mojo Campus</a> & <a href="https://matrixcampus.in" target="_blank">Matrix Campus</a>:** Campus relationship management and unified student lifecycle operations.
-*   **<a href="https://eeshani.in" target="_blank">Eeshani</a>:** Custom luxury brand e-commerce architecture with bespoke headless checkout.
-*   **Pixelfluent.ai & Codecraft:** Rapid prototyping environments translating natural language and sketches into playable interactive applications.
-*   **vibenmeet.com:** Voice-call matchmaking platform featuring instant real-time audio rooms.
-*   **Retro iPod Web App:** A nostalgic, interactive web recreation of the classic click-wheel iPod with haptic feedback and real audio playback.
-*   **OSx86 Project (Hackintosh):** Founding contributor at age 20 for the global open-source project porting macOS to standard x86 PCs.
+*   **<a href="https://eeshani.in" target="_blank">Eeshani</a>:** Headless luxury brand e-commerce architecture with bespoke checkout.
+*   **Retro iPod Web App:** Nostalgic interactive recreation of the classic click-wheel iPod with haptics and audio.
+*   **OSx86 Project (Hackintosh):** Founding contributor at age 20 for the global open-source project porting macOS to standard PCs.
 
 ---
 
-## 🛠️ Technical Competency & Tooling
+## 🛠️ Tech Stack & Architecture
 
 <div align="center">
 
-### AI Agents, Multimodal & LLM Infrastructure
-![Agentic AI](https://img.shields.io/badge/Agentic_AI_Harnesses-000000?style=for-the-badge&logo=google-gemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC9900?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC_Real--Time-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs_Voice-2E7D32?style=for-the-badge)
-![Deepgram](https://img.shields.io/badge/Deepgram_STT-13EF93?style=for-the-badge&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-1F6FEB?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG_&_Vector_Search-764ABC?style=for-the-badge)
-
-### Cloud, Scale & DevOps
-![AWS](https://img.shields.io/badge/AWS_Enterprise-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis_Cluster-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![DevSecOps](https://img.shields.io/badge/DevSecOps_Governance-B71C1C?style=for-the-badge&logo=shield&logoColor=white)
-
-### Backend & High-Concurrency Systems
-![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-### Frontend, Mobile & Automation
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift_macOS-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n_Automation-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce_CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+| Domain | Core Technologies |
+| :--- | :--- |
+| **AI & Real-Time** | WebRTC, Agentic Harnesses, Model Context Protocol (MCP), ElevenLabs, Deepgram, Claude, OpenAI, Gemini |
+| **Cloud & Scale** | AWS (ECS/EKS, Lambda, S3, CloudFront), GCP, Kubernetes, Docker, Redis, Kafka, GitHub Actions |
+| **Backend & Data** | Python (FastAPI, Django), Node.js, Go, PostgreSQL, GraphQL, REST APIs, Microservices |
+| **Frontend & Mobile**| Next.js, React, TypeScript, Tailwind CSS, Flutter, Swift (macOS), n8n, Salesforce |
 
 </div>
 
@@ -453,48 +295,36 @@ Beyond the primary showcase, platforms and ecosystems designed and operated unde
 
 ## 🏆 Honors & Recognition
 
-*   🏆 **Salesforce Future First AI Visionary (2025):** Recognized by Salesforce Inc. for groundbreaking enterprise AI and agentic workflow innovation.
+*   🏆 **Salesforce Future First AI Visionary (2025):** Recognized by Salesforce Inc. for enterprise AI and agentic workflow innovation.
 *   🎖️ **Edvocate Leadership Award (2022):** Awarded for transformational leadership in cloud learning technology.
-*   💡 **Innovative Thinker Award:** Conferred by Miles Education for architectural breakthroughs contributing ₹500 Cr+ in enterprise value.
-*   🍏 **Founding Member, OSx86 (Hackintosh) Project:** Core founding member at age 20 of one of the world's most widespread open-source OS porting initiatives.
-*   ✈️ **Aviation L&D Excellence:** Architected learning & development training ecosystems for commercial aviation.
-*   🤖 **Robotics & National Curriculum:** Co-architect of sovereign digital curriculums and robotics education programs.
+*   💡 **Innovative Thinker Award:** Conferred by Miles Education for architectural breakthroughs driving ₹500 Cr+ in enterprise value.
+*   🍏 **Founding Member, OSx86 Project:** Core founding member of one of the world's most widespread open-source OS porting initiatives.
 
 ---
 
-## 🤝 Why Clients & Partners Work With Me
+## 🤝 Why Clients Work With Me
 
-I was the CTO, and I still write the code. You get architecture that holds up under real production traffic, plus a build that ships immediately — instead of pitch decks and juniors learning on your budget.
-
-*   **Architecture First, Weekly Working Releases:** No endless discovery meetings. You get an architecture diagram and clickable software from week one.
-*   **Clear Written Progress, Zero Theatre:** Asynchronous, transparent, and direct communication.
-*   **Security & Data Compliance by Default:** DevSecOps, GDPR, and India DPDP compliance embedded into every architecture.
-*   **100% IP Ownership:** You own every single line of code, documentation, and model prompt from day one.
+- **CTO Who Still Ships Code:** High-level strategic architecture paired with direct, hands-on production code.
+- **Weekly Clickable Releases:** Zero endless discovery phases; working software from week one.
+- **Enterprise-Grade Rigor:** DevSecOps, GDPR, and Indian DPDP compliance baked into every architecture.
+- **100% IP Ownership:** Complete ownership of all code, schemas, and AI prompts transferred from day one.
 
 ---
 
-## 📬 Let's Build Something Meaningful
-
-Whether you are looking to build a **real-time voice/video AI agent**, deploy an **autonomous workflow that touches real databases**, launch an **MVP properly on the first pass**, or bring on a **fractional CTO** to set architecture and unblock your team:
-
-<br/>
+## 📬 Let's Build Something Great
 
 <div align="center">
 
-<a href="https://www.upwork.com/freelancers/shivamchopra" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Hire_on_Upwork-Shivam%20Chopra-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire on Upwork" /></a>
-&nbsp;
-<a href="https://shivamchopra.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Personal_Site-shivamchopra.me-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/shivamchopra7" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Shivam%20Chopra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-&nbsp;
-<a href="mailto:hello@shivamchopra.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email_Me-hello%40shivamchopra.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.upwork.com/freelancers/shivamchopra" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Hire_on_Upwork-Shivam%20Chopra-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire on Upwork" /></a>
+  &nbsp;
+  <a href="https://shivamchopra.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-shivamchopra.me-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shivamchopra7" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Shivam%20Chopra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:hello@shivamchopra.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-hello%40shivamchopra.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-</div>
+  <br/><br/>
 
-<br/>
-
----
-
-<div align="center">
   <img alt="GitHub Contribution Snake" src="./assets/github-snake-dark.svg" width="100%" />
+
 </div>
