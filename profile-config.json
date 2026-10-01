@@ -2,47 +2,54 @@
   "username": "shivamchopra7",
   "name": "Shivam Chopra",
   "terminal_host": "illusionart",
-  "company": "illusionArt AI Private Limited",
-  "role": "Founder / AI Product Builder",
+  "company": "illusionart AI Private Limited",
+  "role": "Chief Technology Officer / AI Architect",
   "location": "Bengaluru, India",
   "website": "shivamchopra.me",
   "company_website": "illusionart.ai",
+  "upwork": "upwork.com/freelancers/shivamchopra",
   "linkedin": "linkedin.com/in/shivamchopra7",
   "products": [
     "Saaya.ai",
-    "Cerebro",
+    "Cerebro AI",
     "Miles Masterclass",
+    "Milesforce CRM & Automation",
     "Guyana Digital School",
-    "Milesforce CRM",
-    "Pixelfluent.ai",
-    "Penwizard.ai",
-    "Codecraft.illusionart.ai"
+    "MacBook Duo",
+    "PenWizard",
+    "MilesOne App",
+    "illusionart Studios"
   ],
   "focus": [
-    "AI Agents & Workflows",
-    "EdTech Transformation",
-    "Platform Scale",
-    "Cybersecurity"
+    "Agentic AI & Evaluation Harnesses",
+    "Real-Time Voice & Multimodal AI",
+    "Enterprise Cloud Architecture",
+    "Sovereign & Large-Scale EdTech"
   ],
   "programming": [
     "Python",
     "Go",
     "TypeScript",
-    "JavaScript"
+    "JavaScript",
+    "Swift"
   ],
   "stack": [
-    "Django",
     "Next.js",
+    "FastAPI",
     "React",
     "Node.js",
     "PostgreSQL",
     "AWS",
-    "Docker"
+    "Docker",
+    "Kubernetes",
+    "Kafka",
+    "Redis"
   ],
   "ai_stack": [
     "Agentic AI",
-    "Voice & Video AI",
-    "RAG",
-    "Multi-Agent Systems"
+    "WebRTC Voice & Video",
+    "RAG & MCP",
+    "Multi-Agent Coordination",
+    "Generative Media"
   ]
 }
