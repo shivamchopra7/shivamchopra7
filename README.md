@@ -87,8 +87,8 @@ class ShivamChopra:
 <sub>Sales Efficiency via AI Agents</sub>
 </td>
 <td align="center">
-<h3>🇬🇾 Sovereign</h3>
-<sub>Digital School Delivered for Gov</sub>
+<h3>⚡ 70% Cut</h3>
+<sub>Manual Ops Work Automated</sub>
 </td>
 <td align="center">
 <h3>🏆 Visionary</h3>
@@ -144,35 +144,34 @@ Real-time conversational AI platform with voice, video, chat, and photoreal lip-
 
 <td width="50%" valign="top">
 
-<a href="https://github.com/shivamchopra7" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/project-cerebro-agents.jpg" width="100%" alt="Cerebro: Autonomous AI Agents for Sales, Support & Operations" style="border-radius: 8px;" />
+<a href="https://illusionart.ai" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/project-illusionart-studios.jpg" width="100%" alt="illusionart Studios: AI-Generated Training Films in 2-5 Days" style="border-radius: 8px;" />
 </a>
 
-### 🧠 [Cerebro AI](https://github.com/shivamchopra7) &nbsp; `Autonomous Multi-Agent Framework`
-> **Role:** Founder & Architect, illusionart AI
+### 🎥 [illusionart Studios](https://illusionart.ai) &nbsp; `Generative AI Film Production`
+> **Role:** Founder & CEO, illusionart AI
 
-An open-source multi-agent framework where autonomous business agents plan, call tools, and hand off tasks to execute end-to-end sales, customer support, and operational workflows.
+An AI-driven film studio producing custom enterprise training videos, compliance SOP films, and high-impact commercial campaigns in days instead of months.
 
-- **Agent Harness:** Orchestration loops, structured outputs, function calling, and Model Context Protocol (MCP) integrations.
-- **Coordination & Memory:** Multi-agent collaboration with persistent session memory and token-budget context pruning.
-- **Safety & Guardrails:** Automated validation gates, output sanitization, and evaluation loops.
-- **Resilient Routing:** Multi-model routing with fallback cascades across OpenAI, Anthropic Claude, and Google Gemini.
-- **Operational Impact:** Automates complex repetitive human workflows into self-healing background jobs.
+- **10x Speed:** Delivers broadcast-ready training films in **2–5 days** instead of traditional 6–10 week production cycles.
+- **90%+ Cost Reduction:** Cuts production costs to ~$600 per 5-minute video compared to $10,000+ for traditional shoots.
+- **Global Localization:** Automated voice-over and photorealistic lip-sync across **100+ languages**.
+- **Real-World Impact:** Deployed across airline aviation SOPs, luxury fashion campaigns, and corporate training repositories.
+- **Film Craft + AI Pipeline:** Blends generative video and synthetic voice models with Hollywood-grade editorial direction rooted in my early film editing career.
 
 <br/>
 
 <div>
-  <img src="https://img.shields.io/badge/Agentic_AI-000000?style=flat-square&logo=google-gemini&logoColor=white" alt="Agentic AI"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/MCP_Protocol-1F6FEB?style=flat-square" alt="MCP"/>
-  <img src="https://img.shields.io/badge/Anthropic-CC9900?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/AI_Film_Production-7B1FA2?style=flat-square" alt="AI Film"/>
+  <img src="https://img.shields.io/badge/Generative_Video-E91E63?style=flat-square" alt="Video"/>
+  <img src="https://img.shields.io/badge/Voice_Synthesis-2E7D32?style=flat-square" alt="Voice"/>
+  <img src="https://img.shields.io/badge/100+_Languages-00ACC1?style=flat-square" alt="Languages"/>
+  <img src="https://img.shields.io/badge/Enterprise_SOPs-37474F?style=flat-square" alt="Enterprise"/>
 </div>
 
 <br/>
 
-<a href="https://github.com/shivamchopra7" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Framework-GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/></a>
+<a href="https://illusionart.ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Explore_Studios-illusionart.ai-7E57C2?style=for-the-badge&logo=artstation&logoColor=white" alt="illusionart.ai"/></a>
 
 </td>
 </tr>
@@ -246,70 +245,6 @@ Comprehensive proprietary AI-driven business suite powering a multi-country EdTe
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://digitalschool.moe.edu.gy" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/project-guyana-school.jpg" width="100%" alt="Guyana National Digital School: AI-Generated Video Curriculum" style="border-radius: 8px;" />
-</a>
-
-### 🇬🇾 [Guyana Digital School](https://digitalschool.moe.edu.gy) &nbsp; `Sovereign National EdTech`
-> **Role:** Co-Founder & CTO (Technology Lead)
-
-A sovereign national digital education ecosystem engineered in partnership with Guyana's Ministry of Education, featuring an AI-generated video curriculum at country-wide scale.
-
-- **National Infrastructure:** Sovereign cloud learning management and video streaming ecosystem serving schools across the nation.
-- **AI-Generated Curriculum:** Hundreds of standardized curriculum-aligned video lessons produced with generative AI video pipelines.
-- **High-Stakes Delivery:** Designed in direct collaboration with government stakeholders with strict security, availability, and low-bandwidth optimization.
-- **Public Deployment:** Live and operational at `digitalschool.moe.edu.gy`.
-
-<br/>
-
-<div>
-  <img src="https://img.shields.io/badge/Government_EdTech-009688?style=flat-square" alt="Gov"/>
-  <img src="https://img.shields.io/badge/AI_Video_Gen-7952B3?style=flat-square" alt="AI Video"/>
-  <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Solution_Architecture-FF9900?style=flat-square" alt="Architecture"/>
-</div>
-
-<br/>
-
-<a href="https://digitalschool.moe.edu.gy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit_Digital_School-moe.edu.gy-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Guyana Digital School"/></a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<a href="https://macbookduo.illusionart.ai" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/project-macbook-duo.jpg" width="100%" alt="MacBook Duo: macOS App That Animates With Your Laptop Lid" style="border-radius: 8px;" />
-</a>
-
-### 💻 [MacBook Duo](https://macbookduo.illusionart.ai) &nbsp; `Hardware-Aware macOS App`
-> **Role:** Founder & CEO, illusionart AI
-
-A whimsical native macOS desktop application that reads laptop lid angle sensors in real time and drives physics-based animations that mirror your physical lid movements.
-
-- **Hardware Sensor Integration:** Direct access to MacBook lid angle and motion sensor telemetry.
-- **Real-Time Physics:** Silky smooth 60/120 FPS animation loops reacting directly to physical adjustments.
-- **Craft & Delight:** Built to stay connected to micro-interactions, hardware-software bridges, and unexpected UX delight.
-- **Shipped Product:** Packaged, notarized, and distributed publicly as a desktop experiment.
-
-<br/>
-
-<div>
-  <img src="https://img.shields.io/badge/macOS_Native-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS"/>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/Sensor_Telemetry-4A154B?style=flat-square" alt="Sensors"/>
-  <img src="https://img.shields.io/badge/Motion_Design-FF007F?style=flat-square" alt="Motion"/>
-</div>
-
-<br/>
-
-<a href="https://macbookduo.illusionart.ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit_App-macbookduo-00C853?style=for-the-badge&logo=apple&logoColor=white" alt="Visit MacBook Duo"/></a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
 <a href="https://penwizard.ai" target="_blank" rel="noopener noreferrer">
   <img src="./assets/project-penwizard.jpg" width="100%" alt="PenWizard: Generative AI Studio for Social Content & Video Ads" style="border-radius: 8px;" />
 </a>
@@ -373,38 +308,68 @@ The central mobile app ecosystem powering the daily educational journey of 50,00
 </tr>
 
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-<a href="https://illusionart.ai" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/project-illusionart-studios.jpg" width="100%" alt="illusionart Studios: AI-Generated Training Films in 2-5 Days" style="border-radius: 8px;" />
+<a href="https://github.com/shivamchopra7" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/project-cerebro-agents.jpg" width="100%" alt="Cerebro: Autonomous AI Agents for Sales, Support & Operations" style="border-radius: 8px;" />
 </a>
 
-### 🎥 [illusionart Studios](https://illusionart.ai) &nbsp; `Generative AI Film & Training Production`
+### 🧠 [Cerebro AI](https://github.com/shivamchopra7) &nbsp; `Autonomous Multi-Agent Framework`
+> **Role:** Founder & Architect, illusionart AI
+
+An open-source multi-agent framework where autonomous business agents plan, call tools, and hand off tasks to execute end-to-end sales, customer support, and operational workflows.
+
+- **Agent Harness:** Orchestration loops, structured outputs, function calling, and Model Context Protocol (MCP) integrations.
+- **Coordination & Memory:** Multi-agent collaboration with persistent session memory and token-budget context pruning.
+- **Safety & Guardrails:** Automated validation gates, output sanitization, and evaluation loops.
+- **Resilient Routing:** Multi-model routing with fallback cascades across OpenAI, Anthropic Claude, and Google Gemini.
+- **Operational Impact:** Automates complex repetitive human workflows into self-healing background jobs.
+
+<br/>
+
+<div>
+  <img src="https://img.shields.io/badge/Agentic_AI-000000?style=flat-square&logo=google-gemini&logoColor=white" alt="Agentic AI"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/MCP_Protocol-1F6FEB?style=flat-square" alt="MCP"/>
+  <img src="https://img.shields.io/badge/Anthropic-CC9900?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+</div>
+
+<br/>
+
+<a href="https://github.com/shivamchopra7" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_Framework-GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://macbookduo.illusionart.ai" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/project-macbook-duo.jpg" width="100%" alt="MacBook Duo: macOS App That Animates With Your Laptop Lid" style="border-radius: 8px;" />
+</a>
+
+### 💻 [MacBook Duo](https://macbookduo.illusionart.ai) &nbsp; `Hardware-Aware macOS App`
 > **Role:** Founder & CEO, illusionart AI
 
-An AI-driven film studio producing custom enterprise training videos, compliance SOP films, and high-impact commercial campaigns in days instead of months.
+A whimsical native macOS desktop application that reads laptop lid angle sensors in real time and drives physics-based animations that mirror your physical lid movements.
 
-- **10x Speed:** Delivers broadcast-ready training films in **2–5 days** instead of traditional 6–10 week production cycles.
-- **90%+ Cost Reduction:** Cuts production costs to ~$600 per 5-minute video compared to $10,000+ for traditional shoots.
-- **Global Localization:** Automated voice-over and photorealistic lip-sync across **100+ languages**.
-- **Real-World Impact:** Deployed across airline aviation SOPs, luxury fashion campaigns, and corporate training repositories.
-- **Film Craft + AI Pipeline:** Blends generative video and synthetic voice models with Hollywood-grade editorial direction rooted in my early film editing career.
+- **Hardware Sensor Integration:** Direct access to MacBook lid angle and motion sensor telemetry.
+- **Real-Time Physics:** Silky smooth 60/120 FPS animation loops reacting directly to physical adjustments.
+- **Craft & Delight:** Built to stay connected to micro-interactions, hardware-software bridges, and unexpected UX delight.
+- **Shipped Product:** Packaged, notarized, and distributed publicly as a desktop experiment.
 
 <br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AI_Film_Production-7B1FA2?style=flat-square" alt="AI Film"/>
-  <img src="https://img.shields.io/badge/Generative_Video-E91E63?style=flat-square" alt="Video"/>
-  <img src="https://img.shields.io/badge/Voice_Synthesis-2E7D32?style=flat-square" alt="Voice"/>
-  <img src="https://img.shields.io/badge/100+_Languages-00ACC1?style=flat-square" alt="Languages"/>
-  <img src="https://img.shields.io/badge/Enterprise_SOPs-37474F?style=flat-square" alt="Enterprise"/>
+<div>
+  <img src="https://img.shields.io/badge/macOS_Native-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/Sensor_Telemetry-4A154B?style=flat-square" alt="Sensors"/>
+  <img src="https://img.shields.io/badge/Motion_Design-FF007F?style=flat-square" alt="Motion"/>
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://illusionart.ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Explore_Studios-illusionart.ai-7E57C2?style=for-the-badge&logo=artstation&logoColor=white" alt="illusionart.ai"/></a>
-</div>
+<a href="https://macbookduo.illusionart.ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit_App-macbookduo-00C853?style=for-the-badge&logo=apple&logoColor=white" alt="Visit MacBook Duo"/></a>
 
 </td>
 </tr>
