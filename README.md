@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://shivamchopra.me" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/idling_video.gif" width="300" alt="Shivam Chopra - CTO & AI Architect" style="border-radius: 12px;" />
+    <img src="./assets/Shivam-Chopra.gif" width="300" alt="Shivam Chopra - Fractional CTO & AI Architect" style="border-radius: 12px;" />
   </a>
 </div>
 
