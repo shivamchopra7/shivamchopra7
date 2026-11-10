@@ -270,9 +270,9 @@ A native macOS utility that reads laptop lid angle telemetry in real time to dri
 
 ## 🏛️ More Products & Systems
 
-*   **<a href="https://cpa.mileseducation.com" target="_blank">Miles CPA & CMA LMS</a>:** High-fidelity simulation LMS platforms mimicking real AICPA & IMA proctored exams.
-*   **<a href="https://mojocampus.com" target="_blank">Mojo Campus</a> & <a href="https://matrixcampus.in" target="_blank">Matrix Campus</a>:** Campus relationship management and unified student lifecycle operations.
-*   **<a href="https://eeshani.in" target="_blank">Eeshani</a>:** Headless luxury brand e-commerce architecture with bespoke checkout.
+*   **<a href="https://cpa.mileseducation.com" target="_blank" rel="noopener noreferrer">Miles CPA & CMA LMS</a>:** High-fidelity simulation LMS platforms mimicking real AICPA & IMA proctored exams.
+*   **<a href="https://mojocampus.com" target="_blank" rel="noopener noreferrer">Mojo Campus</a> & <a href="https://matrixcampus.in" target="_blank" rel="noopener noreferrer">Matrix Campus</a>:** Campus relationship management and unified student lifecycle operations.
+*   **<a href="https://eeshani.in" target="_blank" rel="noopener noreferrer">Eeshani</a>:** Headless luxury brand e-commerce architecture with bespoke checkout.
 *   **Retro iPod Web App:** Nostalgic interactive recreation of the classic click-wheel iPod with haptics and audio.
 *   **OSx86 Project (Hackintosh):** Founding contributor at age 20 for the global open-source project porting macOS to standard PCs.
 

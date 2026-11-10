@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Local Agent & Editor State
+.kilo/
+.kilocode/
+.remember/
+.claude/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+dist/
